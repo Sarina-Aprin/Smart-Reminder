@@ -4,3 +4,10 @@ INFO:Reminder added: 3 - Workout
 INFO:Reminder 1 executed: It is time: Buy bread
 INFO:Reminder 2 executed: Meeting Reminder: Ali, Sara meeting with: Team
 INFO:Reminder 3 executed: Daily Routine: (Active Daily repeat) Workout
+INFO:Reminder added: 1 - Buy bread
+INFO:Reminder added: 2 - Team meeting
+INFO:Reminder added: 3 - Workout
+INFO:Reminder added: 1 - Buy bread
+INFO:Reminder added: 2 - Team meeting
+INFO:Reminder added: 3 - Workout
+INFO:Reminder 1 snoozed 15 minutes (18:30 -> 18:45)
